@@ -1,0 +1,59 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    title Flying Squerles dot com
+    // Import Google Icon Font
+    link(href='http://fonts.googleapis.com/icon?family=Material+Icons', rel='stylesheet')
+    // <link rel="stylesheet" href="styles.css">
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.css')
+    link(rel='stylesheet', href='/css/style.css')
+    // Let browser know website is optimized for mobile
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+  body
+    .row
+          form.col.s12
+            .row
+              .input-field.col.s6
+                input#first_name.validate(placeholder='Placeholder', type='text')
+                label(for='first_name') First Name
+              .input-field.col.s6
+                input#last_name.validate(type='text')
+                label(for='last_name') Last Name
+            .row
+              .input-field.col.s12
+                input#disabled.validate(disabled='', value='I am not editable', type='text')
+                label(for='disabled') Disabled
+            .row
+              .input-field.col.s12
+                input#password.validate(type='password')
+                label(for='password') Password
+            .row
+              .input-field.col.s12
+                input#email.validate(type='email')
+                label(for='email') Email
+
+
+      .card
+            .card-image.waves-effect.waves-block.waves-light
+              img.activator(src='https://goo.gl/AiaXc2')
+            .card-content
+              span.card-title.activator.grey-text.text-darken-4
+                | Card Title
+                i.material-icons.right more_vert
+              p
+                a(href='#') This is a link
+            .card-reveal
+              span.card-title.grey-text.text-darken-4
+                | Card Title
+                i.material-icons.right close
+              p
+                | Here is some more information about this product that is only revealed once clicked on.
+                **  GUESS WHERE WE ARE***
+               img(src='https://goo.gl/JEyQMQ')
+
+
+
+              //- img(src='https://goo.gl/AiaXc2')
+    script(type='text/javascript', src='https://code.jquery.com/jquery-2.1.1.min.js')
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.js')

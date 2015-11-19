@@ -1,0 +1,1108 @@
+/*!
+ * Materialize v0.97.1 (http://materializecss.com)
+ * Copyright 2014-2015 Materialize
+ * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ */
+
+.pink-text {
+  color: #e91e63 !important;
+}
+
+.pink-text.text-accent-1 {
+  color: #ff80ab !important;
+}
+
+.orange {
+  background-color: #ff9800 !important;
+}
+
+.brown {
+  background-color: #795548 !important;
+}
+
+.brown.darken-1 {
+  background-color: #6d4c41 !important;
+}
+
+/*** Colors ***/
+
+/*** Badges ***/
+
+/*** Buttons ***/
+
+/*** Cards ***/
+
+/*** Collapsible ***/
+
+/*** Dropdown ***/
+
+/*** Fonts ***/
+
+/*** Forms ***/
+
+/*** Global ***/
+
+/*** Navbar ***/
+
+/*** SideNav ***/
+
+/*** Photo Slider ***/
+
+/*** Spinners | Loaders ***/
+
+/*** Tabs ***/
+
+/*** Tables ***/
+
+/*** Toasts ***/
+
+/*** Typography ***/
+
+/*** Collections ***/
+
+/* Progress Bar */
+
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+
+body {
+  margin: 0;
+}
+
+/* HTML5 display definitions
+   ========================================================================== */
+
+/**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11
+ * and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+
+/**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+ */
+
+/* Links
+   ========================================================================== */
+
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+
+a {
+  background-color: transparent;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+
+/* Embedded content
+   ========================================================================== */
+
+/**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+
+/**
+ * Correct overflow not hidden in IE 9/10/11.
+ */
+
+/* Grouping content
+   ========================================================================== */
+
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+
+/**
+ * Contain overflow in all browsers.
+ */
+
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+
+/**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+
+/* 1 */
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+
+/**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+
+/**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
+ *    (include `-moz` to future-proof).
+ */
+
+/**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+
+/**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+
+/* Tables
+   ========================================================================== */
+
+/**
+ * Remove most spacing between table cells.
+ */
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #039be5;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.valign-wrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.valign-wrapper .valign {
+  display: block;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.btn,
+.dropdown-content {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.btn:hover {
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
+
+.divider {
+  height: 1px;
+  overflow: hidden;
+  background-color: #e0e0e0;
+}
+
+/*********************
+  Transition Classes
+**********************/
+
+/*********************
+  Media Query Classes
+**********************/
+
+.collection {
+  margin: 0.5rem 0 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+}
+
+.collection .collection-item {
+  background-color: #fff;
+  line-height: 1.5rem;
+  padding: 10px 20px;
+  margin: 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.collection .collection-item:last-child {
+  border-bottom: none;
+}
+
+.collection a.collection-item {
+  display: block;
+  -webkit-transition: 0.25s;
+  -moz-transition: 0.25s;
+  -o-transition: 0.25s;
+  -ms-transition: 0.25s;
+  transition: 0.25s;
+  color: #26a69a;
+}
+
+.collection a.collection-item:not(.active):hover {
+  background-color: #ddd;
+}
+
+span.badge {
+  min-width: 3rem;
+  padding: 0 6px;
+  text-align: center;
+  font-size: 1rem;
+  line-height: inherit;
+  color: #757575;
+  position: absolute;
+  right: 15px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+span.badge.new {
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: #fff;
+  background-color: #26a69a;
+  border-radius: 2px;
+}
+
+span.badge.new:after {
+  content: " new";
+}
+
+/*******************
+  Utility Classes
+*******************/
+
+@font-face {
+  font-family: "Material-Design-Icons";
+  src: url("../font/material-design-icons/Material-Design-Icons.eot?#iefix") format("embedded-opentype"), url("../font/material-design-icons/Material-Design-Icons.woff2") format("woff2"), url("../font/material-design-icons/Material-Design-Icons.woff") format("woff"), url("../font/material-design-icons/Material-Design-Icons.ttf") format("truetype"), url("../font/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Start Icons */
+
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+
+@media only screen and (min-width : 601px) {
+  .container {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width : 993px) {
+  .container {
+    width: 70%;
+  }
+}
+
+.section {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row .col {
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 0.75rem;
+}
+
+.row .col.s1 {
+  width: 8.33333%;
+  margin-left: 0;
+}
+
+.row .col.s6 {
+  width: 50%;
+  margin-left: 0;
+}
+
+.row .col.s12 {
+  width: 100%;
+  margin-left: 0;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local(Roboto Thin), url("../font/roboto/Roboto-Thin.woff2") format("woff2"), url("../font/roboto/Roboto-Thin.woff") format("woff"), url("../font/roboto/Roboto-Thin.ttf") format("truetype");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local(Roboto Light), url("../font/roboto/Roboto-Light.woff2") format("woff2"), url("../font/roboto/Roboto-Light.woff") format("woff"), url("../font/roboto/Roboto-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local(Roboto Regular), url("../font/roboto/Roboto-Regular.woff2") format("woff2"), url("../font/roboto/Roboto-Regular.woff") format("woff"), url("../font/roboto/Roboto-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../font/roboto/Roboto-Medium.woff2") format("woff2"), url("../font/roboto/Roboto-Medium.woff") format("woff"), url("../font/roboto/Roboto-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../font/roboto/Roboto-Bold.woff2") format("woff2"), url("../font/roboto/Roboto-Bold.woff") format("woff"), url("../font/roboto/Roboto-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+}
+
+html {
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+@media only screen and (min-width: 0) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  html {
+    font-size: 14.5px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+h5 {
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+h5 {
+  font-size: 1.64rem;
+  line-height: 110%;
+  margin: 0.82rem 0 0.656rem 0;
+}
+
+.btn {
+  border: none;
+  border-radius: 2px;
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  outline: 0;
+  padding: 0 2rem;
+  text-transform: uppercase;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.btn:disabled {
+  background-color: #DFDFDF !important;
+  box-shadow: none;
+  color: #9F9F9F !important;
+  cursor: default;
+}
+
+.btn:disabled:hover {
+  background-color: #DFDFDF;
+  color: #9F9F9F;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  background-color: #26a69a;
+  text-align: center;
+  letter-spacing: .5px;
+  -webkit-transition: .2s ease-out;
+  -moz-transition: .2s ease-out;
+  -o-transition: .2s ease-out;
+  -ms-transition: .2s ease-out;
+  transition: .2s ease-out;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #2bbbad;
+}
+
+.dropdown-content {
+  background-color: #fff;
+  margin: 0;
+  display: none;
+  min-width: 100px;
+  max-height: 650px;
+  overflow-y: auto;
+  opacity: 0;
+  position: absolute;
+  z-index: 999;
+  will-change: width, height;
+}
+
+.dropdown-content li {
+  clear: both;
+  color: rgba(0, 0, 0, 0.87);
+  cursor: pointer;
+  line-height: 1.5rem;
+  width: 100%;
+  text-align: left;
+  text-transform: none;
+}
+
+.dropdown-content li:hover {
+  background-color: #eee;
+}
+
+.dropdown-content li > a {
+  font-size: 1.2rem;
+  color: #26a69a;
+  display: block;
+  padding: 1rem 1rem;
+}
+
+/*!
+ * Waves v0.6.0
+ * http://fian.my.id/Waves
+ *
+ * Copyright 2014 Alfiana E. Sibuea and other contributors
+ * Released under the MIT license
+ * https://github.com/fians/Waves/blob/master/LICENSE
+ */
+
+/* Firefox Bug: link not triggered */
+
+/* Remove Focus Boxes */
+
+/***************************
+   Text Inputs + Textarea
+****************************/
+
+:-moz-placeholder {
+  /* Firefox 18- */
+  color: #d1d1d1;
+}
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #d1d1d1;
+}
+
+:-ms-input-placeholder {
+  color: #d1d1d1;
+}
+
+/***************
+  Radio Buttons
+***************/
+
+/* Remove default Radio Buttons */
+
+[type="radio"]:not(:checked) {
+  position: absolute;
+  left: -9999px;
+  visibility: hidden;
+}
+
+[type="radio"]:not(:checked) + label {
+  position: relative;
+  padding-left: 35px;
+  cursor: pointer;
+  display: inline-block;
+  height: 25px;
+  line-height: 25px;
+  font-size: 1rem;
+  -webkit-transition: .28s ease;
+  -moz-transition: .28s ease;
+  -o-transition: .28s ease;
+  -ms-transition: .28s ease;
+  transition: .28s ease;
+  -webkit-user-select: none;
+  /* webkit (safari, chrome) browsers */
+  -moz-user-select: none;
+  /* mozilla browsers */
+  -khtml-user-select: none;
+  /* webkit (konqueror) browsers */
+  -ms-user-select: none;
+  /* IE10+ */
+}
+
+/* Unchecked styles */
+
+[type="radio"]:not(:checked) + label:before {
+  border-radius: 50%;
+  border: 2px solid #5a5a5a;
+}
+
+[type="radio"]:not(:checked) + label:after {
+  border-radius: 50%;
+  border: 2px solid #5a5a5a;
+  z-index: -1;
+  -webkit-transform: scale(0);
+  -moz-transform: scale(0);
+  -ms-transform: scale(0);
+  -o-transform: scale(0);
+  transform: scale(0);
+}
+
+/* Checked styles */
+
+/* Radio With gap */
+
+/* Disabled Radio With gap */
+
+/* Disabled style */
+
+[type="radio"]:disabled:not(:checked) + label:before {
+  background-color: transparent;
+  border-color: rgba(0, 0, 0, 0.26);
+}
+
+[type="radio"]:disabled:not(:checked) + label:before {
+  border-color: rgba(0, 0, 0, 0.26);
+}
+
+/***************
+   Checkboxes
+***************/
+
+/* CUSTOM CSS CHECKBOXES */
+
+/* Remove default checkbox */
+
+[type="checkbox"]:not(:checked) {
+  position: absolute;
+  left: -9999px;
+  visibility: hidden;
+}
+
+[type="checkbox"]:not(:checked):disabled + label:before {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.26);
+}
+
+/* Indeterminate checkbox */
+
+[type="checkbox"].filled-in:not(:checked) + label:before {
+  width: 0;
+  height: 0;
+  border: 3px solid transparent;
+  left: 6px;
+  top: 10px;
+  -webkit-transform: rotateZ(37deg);
+  transform: rotateZ(37deg);
+  -webkit-transform-origin: 20% 40%;
+  transform-origin: 100% 100%;
+}
+
+[type="checkbox"].filled-in:not(:checked) + label:after {
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: 2px solid #5a5a5a;
+  top: 0px;
+  z-index: 0;
+}
+
+[type="checkbox"].filled-in:disabled:not(:checked) + label:before {
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+
+[type="checkbox"].filled-in:disabled:not(:checked) + label:after {
+  border-color: transparent;
+  background-color: #BDBDBD;
+}
+
+/***************
+     Switch
+***************/
+
+input[type=checkbox]:checked:not(:disabled) ~ .lever:active:after {
+  box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.4), 0 0 0 15px rgba(38, 166, 154, 0.1);
+}
+
+input[type=checkbox]:not(:disabled) ~ .lever:active:after {
+  box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.4), 0 0 0 15px rgba(0, 0, 0, 0.08);
+}
+
+/***************
+  Select Field
+***************/
+
+/*********************
+      File Input
+**********************/
+
+/***************
+      Range
+***************/
+
+input[type=range]::-webkit-slider-runnable-track {
+  height: 3px;
+  background: #c2c0c2;
+  border: none;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background-color: #26a69a;
+  transform-origin: 50% 50%;
+  margin: -5px 0 0 0;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  transition: 0.3s;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #ccc;
+}
+
+input[type=range]::-moz-range-track {
+  height: 3px;
+  background: #ddd;
+  border: none;
+}
+
+input[type=range]::-moz-range-thumb {
+  border: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background: #26a69a;
+  margin-top: -5px;
+}
+
+/*hide the outline behind the border*/
+
+input[type=range]:-moz-focusring {
+  outline: 1px solid white;
+  outline-offset: -1px;
+}
+
+input[type=range]:focus::-moz-range-track {
+  background: #ccc;
+}
+
+input[type=range]::-ms-track {
+  height: 3px;
+  /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
+  background: transparent;
+  /*leave room for the larger thumb to overflow with a transparent border */
+  border-color: transparent;
+  border-width: 6px 0;
+  /*remove default tick marks*/
+  color: transparent;
+}
+
+input[type=range]::-ms-fill-lower {
+  background: #777;
+}
+
+input[type=range]::-ms-fill-upper {
+  background: #ddd;
+}
+
+input[type=range]::-ms-thumb {
+  border: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background: #26a69a;
+}
+
+input[type=range]:focus::-ms-fill-lower {
+  background: #888;
+}
+
+input[type=range]:focus::-ms-fill-upper {
+  background: #ccc;
+}
+
+/***************************
+   Text Inputs + Textarea
+****************************/
+
+/***************
+    Nav List
+***************/
+
+/*
+    @license
+    Copyright (c) 2014 The Polymer Project Authors. All rights reserved.
+    This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+    The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+    The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+    Code distributed by Google as part of the polymer project is also
+    subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+ */
+
+/**************************/
+
+/* STYLES FOR THE SPINNER */
+
+/**************************/
+
+/*
+ * Constants:
+ *      STROKEWIDTH = 3px
+ *      ARCSIZE     = 270 degrees (amount of circle the arc takes up)
+ *      ARCTIME     = 1333ms (time it takes to expand and contract arc)
+ *      ARCSTARTROT = 216 degrees (how much the start location of the arc
+ *                                should rotate each time, 216 gives us a
+ *                                5 pointed star shape (it's 360/5 * 3).
+ *                                For a 7 pointed star, we might do
+ *                                360/7 * 3 = 154.286)
+ *      CONTAINERWIDTH = 28px
+ *      SHRINK_TIME = 400ms
+ */
+
+/**
+ * IMPORTANT NOTE ABOUT CSS ANIMATION PROPERTIES (keanulee):
+ *
+ * iOS Safari (tested on iOS 8.1) does not handle animation-delay very well - it doesn't
+ * guarantee that the animation will start _exactly_ after that value. So we avoid using
+ * animation-delay and instead set custom keyframes for each color (as redundant as it
+ * seems).
+ *
+ * We write out each animation in full (instead of separating animation-name,
+ * animation-duration, etc.) because under the polyfill, Safari does not recognize those
+ * specific properties properly, treats them as -webkit-animation, and overrides the
+ * other animation rules. See https://github.com/Polymer/platform/issues/53.
+ */
+
+/**
+ * Patch the gap that appear between the two adjacent div.circle-clipper while the
+ * spinner is rotating (appears on Chrome 38, Safari 7.1, and IE 11).
+ */
+
+/* ==========================================================================
+   $BASE-PICKER
+   ========================================================================== */
+
+/**
+ * Note: the root picker element should *NOT* be styled more than what's here.
+ */
+
+/**
+ * The picker input element.
+ */
+
+/**
+ * When the picker is opened, the input element is "activated".
+ */
+
+/**
+ * The holder is the only "scrollable" top-level container element.
+ */
+
+/*!
+ * Default mobile-first, responsive styling for pickadate.js
+ * Demo: http://amsul.github.io/pickadate.js
+ */
+
+/**
+ * Note: the root picker element should *NOT* be styled more than what's here.
+ */
+
+/**
+ * Make the holder and frame fullscreen.
+ */
+
+/**
+ * The holder should overlay the entire screen.
+ */
+
+/**
+ * The frame that bounds the box contents of the picker.
+ */
+
+/**
+ * The wrapper sets the stage to vertically align the box contents.
+ */
+
+/**
+ * The box contains all the picker contents.
+ */
+
+/**
+ * When the picker opens...
+ */
+
+/**
+ * For `large` screens, transform into an inline picker.
+ */
+
+/* ==========================================================================
+   CUSTOM MATERIALIZE STYLES
+   ========================================================================== */
+
+/* ==========================================================================
+   $BASE-DATE-PICKER
+   ========================================================================== */
+
+/**
+ * The picker box.
+ */
+
+/**
+ * The header containing the month and year stuff.
+ */
+
+/**
+ * The month and year labels.
+ */
+
+/**
+ * The month and year selectors.
+ */
+
+/**
+ * The month navigation buttons.
+ */
+
+/**
+ * The calendar table of dates
+ */
+
+/**
+ * The weekday labels
+ */
+
+/**
+ * The days on the calendar
+ */
+
+/**
+ * The footer containing the "today", "clear", and "close" buttons.
+ */
+
+/* ==========================================================================
+   CUSTOM MATERIALIZE STYLES
+   ========================================================================== */
+
+/* ==========================================================================
+   $BASE-TIME-PICKER
+   ========================================================================== */
+
+/**
+ * The list of times.
+ */
+
+/**
+ * The times on the clock.
+ */
+
+/* Hovered time */
+
+/* Highlighted and hovered/focused time */
+
+/* Selected and hovered/focused time */
+
+/* Disabled time */
+
+/**
+ * The clear button
+ */
+
+/* ==========================================================================
+   $DEFAULT-TIME-PICKER
+   ========================================================================== */
+
+/**
+ * The frame the bounds the time picker.
+ */
+
+/**
+ * The picker box.
+ */
